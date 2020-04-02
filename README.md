@@ -1,2 +1,0 @@
-# UWear
-Ecommerce Project
